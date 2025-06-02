@@ -6,7 +6,7 @@ class Libkrun < Formula
   license "Apache-2.0"
 
   bottle do
-    root_url "https://raw.githubusercontent.com/slp/homebrew-krun/master/bottles"
+    root_url "https://raw.githubusercontent.com/ggoodman/homebrew-krun/master/bottles"
     sha256 cellar: :any, arm64_ventura: "16e011e8d435e1b400ef1db790094acf47986e60e7f29a9aff39e6de94f43929"
   end
 
